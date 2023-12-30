@@ -5,6 +5,6 @@
     </center>
 
 <style="color:#ffffff;">BENNY'S BLUE BALLS> 
-<h2 style="color:#ffffff;">ABOUT</h2> 
+<style="color:#ffffff;">ABOUT> 
 <p style="color:#ffffff;">this is what the website is about</p>
 </body>
