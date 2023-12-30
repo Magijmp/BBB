@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
 <body style="background-color:#003399;">
@@ -8,6 +7,8 @@
     </center>
 
     <title style="color:#ffffff;">BENNY'S BLUE BALLS</title>
+</head>
+<body>
     <h1 style="color:#ffffff;">ABOUT</h1>
     <p style="color:#ffffff;">this is what the website is about</p>
 </body>
