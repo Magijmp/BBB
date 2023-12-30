@@ -1,4 +1,4 @@
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <center>
 <body style="background-color:#003399;">
@@ -13,4 +13,4 @@
 <p style="color:#ffffff;">this is what the website is about</p>
 
 </body>
-</html>`
+</html>
