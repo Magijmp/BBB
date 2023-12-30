@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <center>
 <body style="background-color:#003399;">
