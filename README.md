@@ -8,7 +8,7 @@
 
 &nbsp;
 
-<h2 style="color:#ffffff;"> about </h2>
+<h2 style="color:#ffffff;"> ABOUT </h2>
 <p style="color:#ffffff;">this is what the website is about</p>
 
 </body>
