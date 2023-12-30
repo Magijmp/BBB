@@ -7,7 +7,7 @@
 
 <center>
 <h2 style="color:#ffffff;">ABOUT</h2>
-</center>
 <p style="color:#ffffff;">this is what the website is about</p>
+</center>
 
 </body>
