@@ -6,7 +6,7 @@
 
     <p style="color:#ffffff;"><font size=6>BENNY'S BLUE BALLS</font></p>
     <p style="color:#ffffff;"><font size=5>ABOUT</font></p>
-    <p style="color:#ffffff;">Welcome to my blue balls! A page where I myself, have only been present in the supporting of Everton (and football in general) since the end of the 22/23 season. I come from generations of Evertonians, all born and raised in Liverpool and I wanted to create a space where I can voice my opinions on the clubs performance, purely because I still see some 'fans' blowing underserved smoke up DCLs ass.</p>
+    <p style="color:#ffffff;">Welcome to my blue balls! A page where I myself, have only been present in the supporting of Everton (and football in general) since the end of the 22/23 season. I come from generations of Evertonians, all born and raised in Liverpool and I wanted to create a space where I can voice my opinions on the clubs performance.</p>
     
 </center>
 
