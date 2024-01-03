@@ -5,7 +5,7 @@
    
 
     <p style="color:#ffffff;"><font size=6>BENNY'S BLUE BALLS</font></p>
-    <p style="color:#ffffff;"><font size=4>ABOUT</font></p>
+    <p style="color:#ffffff;"><font size=5>ABOUT</font></p>
     <p style="color:#ffffff;">this is what the website is about</p>
     
 </center>
