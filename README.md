@@ -4,7 +4,7 @@
             alt="W3Schools.com" width="125" height="125">
    
 
-    <p style="color:#ffffff;"><font size=6><b>BENNY'S BLUE BALLS</font></b></p>
+    <p style="color:#ffffff;"><font size=6>BENNY'S BLUE BALLS</font></p>
     <p style="color:#ffffff;">ABOUT</p>
     <p style="color:#ffffff;">this is what the website is about</p>
     
